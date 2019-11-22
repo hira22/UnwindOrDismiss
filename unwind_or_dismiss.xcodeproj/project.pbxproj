@@ -15,6 +15,8 @@
 		B64F1D882387702900976879 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B64F1D862387702900976879 /* LaunchScreen.storyboard */; };
 		B64F1D932387702900976879 /* unwind_or_dismissTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B64F1D922387702900976879 /* unwind_or_dismissTests.swift */; };
 		B64F1D9E2387702900976879 /* unwind_or_dismissUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B64F1D9D2387702900976879 /* unwind_or_dismissUITests.swift */; };
+		B64F1DAC2387746700976879 /* PopupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B64F1DAB2387746600976879 /* PopupViewController.swift */; };
+		B64F1DAE23877B5D00976879 /* OtherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B64F1DAD23877B5D00976879 /* OtherViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		B64F1D992387702900976879 /* unwind_or_dismissUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = unwind_or_dismissUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B64F1D9D2387702900976879 /* unwind_or_dismissUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = unwind_or_dismissUITests.swift; sourceTree = "<group>"; };
 		B64F1D9F2387702900976879 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B64F1DAB2387746600976879 /* PopupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopupViewController.swift; sourceTree = "<group>"; };
+		B64F1DAD23877B5D00976879 /* OtherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtherViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				B64F1D7B2387702600976879 /* AppDelegate.swift */,
 				B64F1D7D2387702600976879 /* SceneDelegate.swift */,
 				B64F1D7F2387702600976879 /* ViewController.swift */,
+				B64F1DAB2387746600976879 /* PopupViewController.swift */,
+				B64F1DAD23877B5D00976879 /* OtherViewController.swift */,
 				B64F1D812387702600976879 /* Main.storyboard */,
 				B64F1D842387702900976879 /* Assets.xcassets */,
 				B64F1D862387702900976879 /* LaunchScreen.storyboard */,
@@ -262,6 +268,8 @@
 				B64F1D802387702600976879 /* ViewController.swift in Sources */,
 				B64F1D7C2387702600976879 /* AppDelegate.swift in Sources */,
 				B64F1D7E2387702600976879 /* SceneDelegate.swift in Sources */,
+				B64F1DAC2387746700976879 /* PopupViewController.swift in Sources */,
+				B64F1DAE23877B5D00976879 /* OtherViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
